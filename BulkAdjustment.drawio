@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T15:09:17.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fDc9pc_h108djmZ4kIrv" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T15:11:50.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-xjRjE0ZnGX4CiKvlAI9" version="16.2.4" type="github">
   <diagram id="9271J5pzasAeuUzchju9" name="Page-1">
     <mxGraphModel dx="1632" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,6 +50,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-6" target="rtP-YycxQSzAullAXLvg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtP-YycxQSzAullAXLvg-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.746;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-6" target="rtP-YycxQSzAullAXLvg-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-6" value="Bulk Operation&lt;br&gt;Type&lt;br&gt;doBulkOperation(...)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
@@ -132,10 +135,16 @@
         <mxCell id="rtP-YycxQSzAullAXLvg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-38" target="rtP-YycxQSzAullAXLvg-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rtP-YycxQSzAullAXLvg-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-38" target="rtP-YycxQSzAullAXLvg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-38" value="BulkAdjustmentOperation.java&lt;br&gt;doLinerMetricsAdjustment(...)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-520" y="680" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-40" target="rtP-YycxQSzAullAXLvg-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rtP-YycxQSzAullAXLvg-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-40" target="rtP-YycxQSzAullAXLvg-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-40" value="LinearBulkAdjustmentService.java&lt;br&gt;applyBulkAdjustment(...)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
@@ -144,8 +153,14 @@
         <mxCell id="rtP-YycxQSzAullAXLvg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-42" target="rtP-YycxQSzAullAXLvg-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rtP-YycxQSzAullAXLvg-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-42" target="rtP-YycxQSzAullAXLvg-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-42" value="BulkEditWorkspaceDemoMetricHelper.java&lt;br&gt;calculateMetricsWithAdjustment(...)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-760" y="800" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtP-YycxQSzAullAXLvg-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-44" target="rtP-YycxQSzAullAXLvg-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rtP-YycxQSzAullAXLvg-44" value="&lt;br&gt;Bulk Adjustment&lt;br&gt;Strategies&lt;br&gt;execute(...)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-440" y="775" width="120" height="110" as="geometry" />
@@ -300,6 +315,11 @@
         <mxCell id="rtP-YycxQSzAullAXLvg-87" value="Multiple RS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFE599;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="25" y="845" as="geometry">
             <mxPoint x="13" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rtP-YycxQSzAullAXLvg-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#E6D0DE;" edge="1" parent="1" source="rtP-YycxQSzAullAXLvg-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
