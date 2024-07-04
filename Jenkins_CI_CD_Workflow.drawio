@@ -1,23 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T05:35:58.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rskl4tYHH0cio-4ygSR2" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T05:48:52.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7uVbQIiYF0QJ-Y0uq5v3" version="24.6.4" type="github">
   <diagram name="Page-1" id="38_c2U4u6f_WLB1Vc7O9">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Su7_YSPuUU6GFlwyaD4R-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Su7_YSPuUU6GFlwyaD4R-1" target="Su7_YSPuUU6GFlwyaD4R-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="160" />
+              <mxPoint x="-10" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Su7_YSPuUU6GFlwyaD4R-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="Su7_YSPuUU6GFlwyaD4R-1" target="Su7_YSPuUU6GFlwyaD4R-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="160" />
+              <mxPoint x="330" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Su7_YSPuUU6GFlwyaD4R-1" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Su7_YSPuUU6GFlwyaD4R-4" value="Free Style&lt;div style=&quot;font-size: 14px;&quot;&gt;Project&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="20" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="-50" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Su7_YSPuUU6GFlwyaD4R-6" value="&lt;span style=&quot;color: rgb(71, 71, 71); font-family: Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Pipeline&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Su7_YSPuUU6GFlwyaD4R-11" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;=== CI ===&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Create Jenkins Veriables for Free Style Project.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;2. SCM code repo integration &lt;b&gt;[Bitbucket, github, gitlab]&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Add Configuration of plugins for Code build &lt;b&gt;[maven, gradle]&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Add Configuration of plugins for Static Code Analysis tool &lt;b&gt;[SonarQube, ESLint, pylint]&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Add Configuration of plugins for Artifact Registory &lt;b&gt;[Jfrog, Nexus, Meven Central,&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GitLab Container Registry,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Google Artifact Registry,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AWS CodeArtifact,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Azure Artifacts&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="370" width="290" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
