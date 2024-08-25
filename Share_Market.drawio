@@ -37,6 +37,9 @@
         <mxCell id="UT6pLKemtJFddx9t97uS-9" value="Market Capitalization = &lt;font color=&quot;#ff33ff&quot;&gt;Current Share Price&lt;/font&gt; * &lt;font color=&quot;#ff3399&quot;&gt;Number Of Outstanding Shares&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#f48e2f;" vertex="1" parent="1">
           <mxGeometry x="169" y="120" width="480" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-10" value="Less Then 20000 Crores&lt;div&gt;Greater Then 5000 Crores&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#f48e2f;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
