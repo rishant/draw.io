@@ -38,13 +38,13 @@
           <mxGeometry x="169" y="120" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UT6pLKemtJFddx9t97uS-10" value="Less Then 20000 Crores&lt;div&gt;Greater Then 5000 Crores&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#f48e2f;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="200" height="40" as="geometry" />
+          <mxGeometry x="300" y="336" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UT6pLKemtJFddx9t97uS-11" value="&lt;div&gt;Greater Then&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;20000 Crores&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="40" y="340" width="200" height="30" as="geometry" />
+          <mxGeometry x="40" y="335" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UT6pLKemtJFddx9t97uS-13" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Less&lt;/span&gt;&amp;nbsp;Then 5000 Crores&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="336" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
