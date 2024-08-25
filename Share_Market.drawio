@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="sTBqUNskCWZe8skMI56H">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UT6pLKemtJFddx9t97uS-1" value="Market Capitalization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-2" value="LARGE CAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-3" value="MID CAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-4" value="SMALL CAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UT6pLKemtJFddx9t97uS-1" target="UT6pLKemtJFddx9t97uS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="180" as="sourcePoint" />
+            <mxPoint x="300" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UT6pLKemtJFddx9t97uS-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.322;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UT6pLKemtJFddx9t97uS-1" target="UT6pLKemtJFddx9t97uS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UT6pLKemtJFddx9t97uS-9" value="Market Capitalization = &lt;font color=&quot;#ff33ff&quot;&gt;Current Share Price&lt;/font&gt; * &lt;font color=&quot;#ff3399&quot;&gt;Number Of Outstanding Shares&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#f48e2f;" vertex="1" parent="1">
+          <mxGeometry x="169" y="120" width="480" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
