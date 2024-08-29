@@ -128,7 +128,7 @@
           <mxGeometry x="-707.86" y="611" width="651.86" height="370" as="geometry" />
         </mxCell>
         <mxCell id="iKly1VxgXHmINBsWgviP-11" value="Value Investing&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;share price &quot;is less then&quot; it&#39;s True Price&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Core Idea:&lt;/strong&gt; Invest in undervalued companies with strong fundamentals.&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Strategy:&lt;/strong&gt; Look for stocks trading below their intrinsic value, often using metrics like the price-to-earnings ratio (P/E) or price-to-book ratio (P/B). Value investors believe that the market overreacts to good and bad news, creating opportunities to buy stocks at a discount.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="359.93" y="1066" width="715" height="221" as="geometry" />
+          <mxGeometry x="359.93" y="1063" width="715" height="221" as="geometry" />
         </mxCell>
         <mxCell id="iKly1VxgXHmINBsWgviP-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.075;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKly1VxgXHmINBsWgviP-7" target="iKly1VxgXHmINBsWgviP-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
