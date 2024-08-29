@@ -154,10 +154,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKly1VxgXHmINBsWgviP-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.048;entryY=-0.012;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="iKly1VxgXHmINBsWgviP-7" target="iKly1VxgXHmINBsWgviP-12">
+        <mxCell id="iKly1VxgXHmINBsWgviP-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.542;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iKly1VxgXHmINBsWgviP-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="336" y="928" as="sourcePoint" />
-            <mxPoint x="407" y="1344" as="targetPoint" />
+            <mxPoint x="413" y="923" as="sourcePoint" />
+            <mxPoint x="413" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iKly1VxgXHmINBsWgviP-16" value="Index Investing&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;share market Avrage Return&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Core Idea:&lt;/strong&gt; Invest in a broad market index to capture overall market returns.&lt;font color=&quot;#ff8000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Strategy:&lt;/strong&gt; Buy and hold a diversified portfolio that mirrors a market index, such as the S&amp;amp;P 500. The belief is that it’s difficult to consistently outperform the market, so capturing the market&#39;s return is a more reliable strategy.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
