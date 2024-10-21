@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="lO9HuY8mhgdWHgFlVTSD">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u8rnc80zCikkx-QPKjvD-2" value="I AM BHAGAT SINGH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=92;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="970" height="220" as="geometry" />
+        <mxCell id="u8rnc80zCikkx-QPKjvD-2" value="I AM BHAGAT SINGH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=105;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="280" width="1150" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
