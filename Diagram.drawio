@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="CBk7roLamCVoZusPBPZk">
-    <mxGraphModel dx="992" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="710" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xhv_hJWSGgYIQjWlP3cV-2" value="Authentication&amp;nbsp;&lt;div&gt;Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="-620" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xhv_hJWSGgYIQjWlP3cV-4" value="Order-MS&lt;br&gt;Rest | Reactive" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="380" width="120" height="60" as="geometry" />
@@ -128,6 +128,27 @@
         <mxCell id="axnlmVdyYYH2qkqb2qAq-29" value="WebClient&lt;div&gt;or&lt;/div&gt;&lt;div&gt;RestClient&lt;/div&gt;&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;Feign&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Client&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="axnlmVdyYYH2qkqb2qAq-28">
           <mxGeometry x="-0.2306" y="1" relative="1" as="geometry">
             <mxPoint x="15" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axnlmVdyYYH2qkqb2qAq-32" value="Router-SuperGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="385" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axnlmVdyYYH2qkqb2qAq-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="axnlmVdyYYH2qkqb2qAq-32" target="axnlmVdyYYH2qkqb2qAq-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="340" as="sourcePoint" />
+            <mxPoint x="70" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axnlmVdyYYH2qkqb2qAq-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="axnlmVdyYYH2qkqb2qAq-32" target="axnlmVdyYYH2qkqb2qAq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="555" as="sourcePoint" />
+            <mxPoint x="153" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axnlmVdyYYH2qkqb2qAq-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="axnlmVdyYYH2qkqb2qAq-32" target="axnlmVdyYYH2qkqb2qAq-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="415" as="sourcePoint" />
+            <mxPoint x="143" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
